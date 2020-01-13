@@ -1,6 +1,6 @@
 'use strict';
 
-const validator = require('./lib/validator.js.js');
+const validator = require('./lib/validator.js');
 
 const schema = {
   fields: {
