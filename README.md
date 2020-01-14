@@ -5,19 +5,17 @@
 ### Author: Lindsay Peltier
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
 
+- [submission PR]()
+- [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-01/builds/144381809)
 
 #### Documentation
 
-* JSDoc Comment Required for all modules and functions in all .js files
-
 ### Setup
+
 'npm install'
 
-
 #### Tests
-* How do you run tests?
-'npm test'
 
+- How do you run tests?
+  'npm test'
