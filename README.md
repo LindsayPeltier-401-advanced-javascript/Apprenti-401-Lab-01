@@ -17,3 +17,8 @@
 
 - How do you run tests?
   'npm test'
+
+### UML
+
+![UML](./assets/lab01UML.png)
+//UML credit Trevor
