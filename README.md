@@ -6,10 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-01/pull/1)
 - [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-01/builds/144381809)
-
-#### Documentation
 
 ### Setup
 
@@ -19,3 +17,8 @@
 
 - How do you run tests?
   'npm test'
+
+### UML
+
+![UML](./assets/lab01UML.png)
+//UML credit Trevor
